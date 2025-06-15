@@ -51,14 +51,11 @@ https://leetcode.com/u/aime-n/
 <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a>
 <!-- VS Code -->
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  
 ---
 
-  
-
+Github Stats:
 ![Aim"e's GitHub stats](https://github-readme-stats.vercel.app/api?username=aime-n&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aime-n&layout=compact)
-
 
 
 <!--
@@ -74,4 +71,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aime-n&layout=compact)
 -->
