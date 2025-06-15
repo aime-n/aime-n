@@ -54,7 +54,8 @@ https://leetcode.com/u/aime-n/
 ---
 
   
-[![Aimê's GitHub stats](https://github-readme-stats.vercel.app/api?username=aime-n)](https://github.com/aime-n/github-readme-stats)
+
+![Aim"e's GitHub stats](https://github-readme-stats.vercel.app/api?username=aime-n&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aime-n&layout=compact)
 
